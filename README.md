@@ -55,9 +55,6 @@ Follow these steps to set up the project locally:
    pip install -r requirements.txt
    python app.py
 
-
-
-  
    
 ### 🗂️ Project Structure
      
@@ -74,9 +71,6 @@ Follow these steps to set up the project locally:
           └── train.py           # Model training script
     
 ### 🧪 Testing
-
- 
-
 
 - Manual testing of learning workflow  
 - Validation of AI model predictions  
