@@ -86,6 +86,11 @@ Follow these steps to set up the project locally:
   **API testing using Postman**
   **Quiz ,Coding and scheduling feature testing**
 
+### 🧪 Testing
+  **Manual testing of payment workflow** 
+  **Validation of interest calculation logic** 
+  **API testing using Postman** 
+   API testing using Postman
 
 ### 📜 License
 
