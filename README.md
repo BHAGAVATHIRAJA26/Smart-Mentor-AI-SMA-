@@ -69,12 +69,18 @@ Follow these steps to set up the project locally:
       │   └── public             # Public files
       │
       └── /backend               # Flask Backend
-          ├── app.py            # Main backend file
+          ├── app.py             # Main backend file
           ├── /models            # ML models (.pkl files)
           └── train.py           # Model training script
     
 ### 🧪 Testing
 
+ **Manual testing of payment workflow** 
+  **Validation of interest calculation logic** 
+  **API testing using Postman** 
+
+
+  
   **Manual testing of learning workflow** 
   **Validation of AI model predictions**
   **API testing using Postman**
