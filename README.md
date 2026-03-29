@@ -78,11 +78,10 @@ Follow these steps to set up the project locally:
  
 
 
-  
-  **Manual testing of learning workflow** 
-  **Validation of AI model predictions**
-  **API testing using Postman**
-  **Quiz ,Coding and scheduling feature testing**
+- Manual testing of learning workflow  
+- Validation of AI model predictions  
+- API testing using Postman  
+- Quiz, coding, and scheduling feature testing  
 
 
 
