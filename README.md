@@ -60,25 +60,25 @@ Follow these steps to set up the project locally:
   
    
 ### 🗂️ Project Structure
-
-/SMA
-│
-├── /frontend              # React Frontend
-│   ├── /src               # Main source files
-│   ├── /assets            # Images & static files
-│   └── /public            # Public files
-│
-└── /backend               # Flask Backend
-    ├── app.py             # Main backend file
-    ├── /models            # ML models (.pkl files)
-    └── /train.py          # model creater
+     
+      /MoneyMind
+      │
+      ├── /frontend              # React Frontend
+      │   ├── /src               # Main source files
+      │   ├── /assets            # Images & static files
+      │   └── public             # Public files
+      │
+      └── /backend               # Flask Backend
+          ├── app.py            # Main backend file
+          ├── /models            # ML models (.pkl files)
+          └── train.py           # Model training script
     
 ### 🧪 Testing
 
-  **✅Manual testing of learning workflow** 
-  **✅Validation of AI model predictions**
-  **✅ API testing using Postman**
-  **✅Quiz ,Coding and scheduling feature testing**
+  **Manual testing of learning workflow** 
+  **Validation of AI model predictions**
+  **API testing using Postman**
+  **Quiz ,Coding and scheduling feature testing**
 
 
 ### 📜 License
