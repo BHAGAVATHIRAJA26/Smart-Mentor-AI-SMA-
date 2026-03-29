@@ -1,39 +1,18 @@
 # 🤖 SmartMentor AI (SMA) – AI Placement Mentor System
 
-**SmartMentor AI (SMA)** is a full-stack AI-powered web application designed to guide students from beginner level to placement readiness. It provides personalized learning, coding practice, scheduling, and AI-based evaluation to improve technical and communication skills.
-
----
+SmartMentor AI (SMA) is a full-stack AI-powered web application designed to guide students from beginner level to placement readiness. It provides personalized learning, coding practice, scheduling, and AI-based evaluation to improve technical and communication skills.
 
 ## 🚀 Features
 
-### 🎯 AI Learning Guidance
-Provides structured learning paths for programming, algorithms, and core subjects.
-
-### 💻 Coding Practice & Evaluation
-Solve coding problems with automated evaluation and feedback.
-
-### 🧠 AI-Based Analysis
-Uses machine learning models to analyze user performance and suggest improvements.
-
-### 📅 Smart Scheduling System
-Helps users plan daily study schedules and track progress.
-
-### ⏰ Reminder & Alarm System
-Sends alerts for study sessions, tasks, and deadlines.
-
-### 📝 Quiz & Assessment Module
-Conducts quizzes to test knowledge and track improvement.
-
-### 🔐 Secure Authentication
-User login and registration with protected routes.
-
-### 🖥️ Interactive UI
-Clean and responsive interface for better user experience.
-
-### 📡 API-Based Backend
-RESTful APIs built using Flask for seamless frontend-backend communication.
-
----
+- 🎯 **AI Learning Guidance** – Provides structured learning paths for programming, algorithms, and core subjects.
+- 💻 **Coding Practice & Evaluation** – Solve coding problems with automated evaluation and feedback.
+- 🧠 **AI-Based Analysis** – Uses machine learning models to analyze user performance and suggest improvements.
+- 📅 **Smart Scheduling System** – Helps users plan daily study schedules and track progress.
+- ⏰ **Reminder & Alarm System** – Sends alerts for study sessions, tasks, and deadlines.
+- 📝 **Quiz & Assessment Module** – Conducts quizzes to test knowledge and track improvement.
+- 🔐 **Secure Authentication** – User login and registration with protected routes.
+- 🖥️ **Interactive UI** – Clean and responsive interface for better user experience.
+- 📡 **API-Based Backend** – RESTful APIs built using Flask for seamless frontend-backend communication.
 
 ## 🛠️ Getting Started
 
@@ -41,56 +20,69 @@ RESTful APIs built using Flask for seamless frontend-backend communication.
 
 Before you begin, ensure you have the following installed:
 
-- **Node.js** – JavaScript runtime  
-- **React.js** – Frontend framework  
-- **Python (3.x)** – Backend runtime  
-- **Flask** – Backend framework  
-- **MongoDB** – Database  
-- **Git** – Version control  
+- **Node.js** – JavaScript runtime
+- **React.js** – Frontend framework
+- **Python (3.x)** – Backend runtime
+- **Flask** – Backend framework
+- **MongoDB** – Database
+- **Git** – Version control
 
----
-
-## 📥 Installation
+### 📥 Installation
 
 Follow these steps to set up the project locally:
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/BHAGAVATHIRAJA26/Smart-Mentor-AI-SMA-.git
+1. **Clone the repository**
 
-2.Navigate into the project directory
-```bash
-  cd SMA
-3. Setup Frontend
-```bash
-  cd frontend
-  npm install
-  npm run dev
-4. Setup Backend
-```bash
-  cd backend
-  pip install -r requirements.txt
-  python app.py
+   ```bash
+   git clone https://github.com/BHAGAVATHIRAJA26/Smart-Mentor-AI-SMA-.git
 
+2. **Navigate into the project directory**
+
+   ```bash
+   cd SMA
+
+3. **Setup Frontend**
+
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   
+4. **Setup Frontend**
+
+   ```bash
+   cd backend
+   pip install -r requirements.txt
+   python app.py
+
+
+
+  
+   
 ### 🗂️ Project Structure
+
 /SMA
 │
 ├── /frontend              # React Frontend
 │   ├── /src               # Main source files
 │   ├── /assets            # Images & static files
-│   └── /public            # Public files,Image
+│   └── /public            # Public files
 │
 └── /backend               # Flask Backend
     ├── app.py             # Main backend file
     ├── /models            # ML models (.pkl files)
-    └── train.py            # Helper functions
-###🧪 Testing
-✅ Manual testing of learning workflow
-✅ Validation of AI model predictions
-✅ API testing using Postman
-✅ Quiz and scheduling feature testing
+    └── /train.py          # model creater
+    
+### 🧪 Testing
+
+  **✅Manual testing of learning workflow** 
+  **✅Validation of AI model predictions**
+  **✅ API testing using Postman**
+  **✅Quiz ,Coding and scheduling feature testing**
+
 
 ### 📜 License
+
 This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for details.
 
 ### 📞 Contact
